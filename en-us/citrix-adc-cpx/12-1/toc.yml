@@ -1,0 +1,41 @@
+docs_list_title: Citrix ADC CPX 12.1
+docs:
+#top level links
+- title: Architecture and Traffic Flow
+  url: /en-us/citrix-adc-cpx/12-1/cpx-architecture-and-traffic-flow.html
+- title: Citrix ADC CPX Licensing
+  url: /en-us/citrix-adc-cpx/12-1/cpx-licensing.html
+- title: Deploying a Citrix ADC CPX Instance in Docker
+  url: /en-us/citrix-adc-cpx/12-1/deploy-using-docker-image-file.html
+- title: Adding Citrix ADC CPX Instances to Citrix ADM
+  url: /en-us/citrix-adc-cpx/12-1/adding-instances-to-adm.html
+- title: Configuring Citrix ADC CPX
+  url: /en-us/citrix-adc-cpx/12-1/configure-cpx.html
+- title: Configuring Citrix ADC CPX Using a Configuration File
+  url: /en-us/citrix-adc-cpx/12-1/configure-cpx-using-configuration-file.html
+- title: Configuring Docker Logging Drivers
+  url: /en-us/citrix-adc-cpx/12-1/configure-docker-logging.html
+- title: Upgrading Citrix ADC CPX Instance
+  url: /en-us/citrix-adc-cpx/12-1/upgrade-cpx.html
+- title: Using Wildcard Virtual Servers in Citrix ADC CPX Instance
+  url: /en-us/citrix-adc-cpx/12-1/wild-card-virtual-server.html
+- title: Deploy Citrix ADC CPX as a Proxy to Enable East-West Traffic Flow
+  url: /en-us/citrix-adc-cpx/12-1/deploy-cpx-to-enable-east-west-traffic.html
+- title: Deploy Citrix ADC CPX in a Single Host Network
+  url: /en-us/citrix-adc-cpx/12-1/deploy-cpx-in-single-host-network.html
+- title: Deploy Citrix ADC CPX in a Multi-Host Network
+  url: /en-us/citrix-adc-cpx/12-1/deploy-cpx-in-multi-host-network.html
+- title: Deploy Citrix ADC CPX with Direct Access to the Network
+  url: /en-us/citrix-adc-cpx/12-1/deploy-cpx-with-direct-access-to-network.html
+- title: Deploy Citrix ADC CPX in a Mesos and Marathon Environment
+  url: /en-us/citrix-adc-cpx/12-1/deploy-cpx-mesos-marathon.html
+- title: Integrate Citrix ADC CPX Instances with Mesos, Marathon, InfoBlox, and Nuage by Using NetScaler MAS
+  url: /en-us/citrix-adc-cpx/12-1/integrate-cpx-mesos-marathon-nuage-infoblox-netscalermas.html
+- title: Load Balance East-West Traffic in Kubernetes Environment Using Citrix ADC CPX
+  url: /en-us/citrix-adc-cpx/12-1/deploy-cpx-in-a-kubernetes-environment.html
+- title: Load Balance Ingress Traffic in Kubernetes Environment Using Citrix ADC CPX
+  url: /en-us/citrix-adc-cpx/12-1/load-balance-ingress-traffic-in-kubernetes-environment.html
+- title: Configure Citrix ADC CPX in Kubernetes Using ConfigMaps
+  url: /en-us/citrix-adc-cpx/12-1/configure-cpx-kubernetes-using-configmaps.html
+- title: Deploy Citrix ADC CPX Proxy on Google Compute Engine
+  url: /en-us/citrix-adc-cpx/12-1/deploy-cpx-proxy-on-google-compute-engine.html

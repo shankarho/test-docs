@@ -1,0 +1,11 @@
+docs_list_title: Citrix ADC CPX
+docs:
+#top level links
+#- title: NetScaler CPX 12.1
+#  url: /en-us/netscaler-cpx/12-1/cpx-architecture-and-traffic-flow.html
+- title: Citrix ADC CPX 12.1
+  url: /en-us/citrix-adc-cpx/12-1/cpx-architecture-and-traffic-flow.html
+- title: NetScaler CPX 12
+  url: /en-us/citrix-adc-cpx/12/cpx-architecture-and-traffic-flow.html
+- title: NetScaler CPX 11.1
+  url: /en-us/citrix-adc-cpx/11-1/cpx-architecture-and-traffic-flow.html
