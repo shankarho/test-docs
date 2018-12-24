@@ -1,7 +1,7 @@
 ---
 layout: doc
 ---
-# About Citrix ADC CPXi-updated
+# About Citrix ADC CPXi-updated in public repo
 
 Citrix Citrix ADC CPX is a container-based application delivery controller that can be provisioned on a Docker host. Citrix ADC CPX enables customers to leverage Docker engine capabilities and use NetScaler load balancing and traffic management features for container-based applications. You can deploy one or more Citrix ADC CPX instances as standalone instances on a Docker host.
 
